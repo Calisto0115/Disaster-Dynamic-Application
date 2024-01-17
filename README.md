@@ -1,5 +1,5 @@
-<img width="653" alt="image" src="https://github.com/Calisto0115/Disaster-Dynamic-Application/assets/137281079/75299989-45ca-453b-81bb-2fe446a31b38"># Disaster Dynamic Application 
 
+# DOCUMENTATION 
 
 ## INTRODUCTION
 The Main Purpose of Disaster Dynamics is a disaster management app designed to empower individuals and communities to navigate and respond to disasters. 
