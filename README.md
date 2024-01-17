@@ -44,3 +44,6 @@ Comprehensive documentation that covers testing procedures, accessibility, and A
 By guiding users through the app's lifespan, this documentation guarantees a top-notch user experience. 
 It also expedites development, extends the app's life, and acts as a roadmap for upcoming updates as well as a knowledge transfer tool.
 The intention is to give the user an in-depth summary.
+
+# FULL DOCUMENTATION HERE 
+https://docs.google.com/document/d/1S6Cz7i53SlFbwheGPu6QGZ6U50CIOk47SbvcUR-cSyw/edit
