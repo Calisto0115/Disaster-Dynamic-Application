@@ -1,4 +1,4 @@
-# Disaster Dynamic Application 
+<img width="653" alt="image" src="https://github.com/Calisto0115/Disaster-Dynamic-Application/assets/137281079/75299989-45ca-453b-81bb-2fe446a31b38"># Disaster Dynamic Application 
 
 
 ## INTRODUCTION
@@ -8,6 +8,8 @@ It provides real-time information, an emergency communication hub, and resource 
 ## LANGUAGE 
 The Disaster Dynamic Application only code with Kodular the Drag and Drop
 we avoid using complex language or technical jargon that might confuse users and my co-members.
+<img width="653" alt="image" src="https://github.com/Calisto0115/Disaster-Dynamic-Application/assets/137281079/cae79d9f-31a2-4db6-8af5-27bc668f8864">
+
 
 ## Aids in Maintenance and Updates
 Mobile apps require regular updates and maintenance to remain relevant and useful 
