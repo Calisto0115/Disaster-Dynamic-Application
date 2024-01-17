@@ -8,6 +8,8 @@ It provides real-time information, an emergency communication hub, and resource 
 ## LANGUAGE 
 The Disaster Dynamic Application only code with Kodular the Drag and Drop
 we avoid using complex language or technical jargon that might confuse users and my co-members.
+
+##
 <img width="653" alt="image" src="https://github.com/Calisto0115/Disaster-Dynamic-Application/assets/137281079/cae79d9f-31a2-4db6-8af5-27bc668f8864">
 
 
@@ -23,6 +25,11 @@ buttons and other functionality on our app so we can implementing flexible grids
 
 When it comes to Detail API we have a database that allowing us to communicate or to see with external services and databases. so we can have a 
 Clarify authentication and authorization for the users 
+
+
+##
+<img width="859" alt="image" src="https://github.com/Calisto0115/Disaster-Dynamic-Application/assets/137281079/632fbb8e-c301-4356-a5b4-fb6a230b8b08">
+
 
 ## Describing The Testing and Debugging Procedures
 
